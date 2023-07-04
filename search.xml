@@ -29,7 +29,10 @@
   <entry>
     <title>blogTest</title>
     <url>/2021/TEST1/</url>
-    <content><![CDATA[<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><h2 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h2><ul>
+    <content><![CDATA[<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><h2 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h2><figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="variable language_">module</span>.<span class="property">exports</span> = &#123;</span><br><span class="line">  <span class="attr">plugins</span>: &#123;</span><br><span class="line">    <span class="keyword">new</span> webpack.<span class="property">optimize</span>.<span class="title class_">ModuleConcatenationPlungin</span>()</span><br><span class="line">  &#125;</span><br><span class="line">&#125;;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<hr>
+<ul>
 <li>First</li>
 <li>Second</li>
 </ul>
