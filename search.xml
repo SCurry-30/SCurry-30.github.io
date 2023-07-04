@@ -3,7 +3,7 @@
   <entry>
     <title>blogTest</title>
     <url>/2021/TEST1/</url>
-    <content><![CDATA[<h3 id="1-This-is-a-blog-Test"><a href="#1-This-is-a-blog-Test" class="headerlink" title="1. This is a blog Test"></a>1. This is a blog Test</h3><ul>
+    <content><![CDATA[<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><h2 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h2><ul>
 <li>First</li>
 <li>Second</li>
 </ul>
@@ -19,11 +19,11 @@
 </blockquote>
 ]]></content>
       <categories>
-        <category>others</category>
-        <category>test</category>
+        <category>Others</category>
+        <category>TEST</category>
       </categories>
       <tags>
-        <tag>Test</tag>
+        <tag>测试</tag>
       </tags>
   </entry>
   <entry>
@@ -43,5 +43,13 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>Tutorial</category>
+        <category>HEXO</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>hexo</tag>
+      </tags>
   </entry>
 </search>
