@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo+Github搭建博客常见问题</title>
+    <url>/2023/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<h1>Hexo部署到Github失败</h1>
+<h2 id="Timeout：unable-to-access">Timeout：unable to access</h2>
+<h3 id="解决方法">解决方法</h3>
+<ul>
+<li>1 禁用接口代理</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global --<span class="built_in">unset</span> https.proxy</span><br></pre></td></tr></table></figure>
+<ul>
+<li>2 修改根目录配置文件_config.ymld的deploy项</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  <span class="built_in">type</span>: git</span><br><span class="line">  repo: git@github.com:[YOUR NAME]/[YOUR NAME].github.io.git</span><br><span class="line">  branch: main </span><br></pre></td></tr></table></figure>
+<div class="note warning flat"><p>注意：branch属性的配置要与github仓库分支一致（见仓库中页面部署设置），许多旧的教程用的是master，但需要注意Github官方从2020年10月1日起将平台创建的代码默认分支改为“main”，而不再是以前的master。</p>
+</div>
+<p>欢迎补充…</p>
+]]></content>
+      <categories>
+        <category>Tutorial</category>
+        <category>HEXO</category>
+      </categories>
+      <tags>
+        <tag>教程 hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>blogTest</title>
     <url>/2021/TEST1/</url>
     <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#github initial</span><br><span class="line">git init</span><br><span class="line">git add README.md</span><br><span class="line">git commit -m &quot;first commit&quot;</span><br><span class="line">git branch -M main</span><br><span class="line">git remote add origin https://github.com/SCurry-30/[YourRepository].git</span><br></pre></td></tr></table></figure>
@@ -152,32 +178,6 @@
       <tags>
         <tag>教程</tag>
         <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo+Github搭建博客常见问题</title>
-    <url>/2023/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<h1>Hexo部署到Github失败</h1>
-<h2 id="Timeout：unable-to-access">Timeout：unable to access</h2>
-<h3 id="解决方法">解决方法</h3>
-<ul>
-<li>1 禁用接口代理</li>
-</ul>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git config --global --<span class="built_in">unset</span> https.proxy</span><br></pre></td></tr></table></figure>
-<ul>
-<li>2 修改根目录配置文件_config.ymld的deploy项</li>
-</ul>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  <span class="built_in">type</span>: git</span><br><span class="line">  repo: git@github.com:[YOUR NAME]/[YOUR NAME].github.io.git</span><br><span class="line">  branch: main </span><br></pre></td></tr></table></figure>
-<div class="note warning flat"><p>注意：branch属性的配置要与github仓库分支一致（见仓库中页面部署设置），许多旧的教程用的是master，但需要注意Github官方从2020年10月1日起将平台创建的代码默认分支改为“main”，而不再是以前的master。</p>
-</div>
-<p>欢迎补充…</p>
-]]></content>
-      <categories>
-        <category>Tutorial</category>
-        <category>HEXO</category>
-      </categories>
-      <tags>
-        <tag>教程 hexo</tag>
       </tags>
   </entry>
 </search>
