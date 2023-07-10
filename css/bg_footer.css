@@ -1,0 +1,29 @@
+/* 页脚footer */
+#footer {
+    background: transparent
+  }
+  #footer:before {
+    background-color: rgba(0, 0, 0, 0);
+  }
+  
+  .upy {
+    vertical-align:middle;
+    display: inline;
+    }
+  
+  .footer-a {
+    border-bottom:none;
+    color:#4c4948
+    }
+  
+  .footer-a:hover{
+    color:#4c4948
+    } 
+  
+  #footer-wrap, #footer-wrap a{
+    color: #e3d8d4 !important;
+  }
+  
+  .framework-info {
+    display: none;
+  }

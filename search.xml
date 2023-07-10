@@ -1,39 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Git常用命令</title>
-    <url>/2023/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</url>
-    <content><![CDATA[<h2 id="代码库备份">代码库备份</h2>
-<p>在参加项目时，经常需要给项目代码进行备份，以免丢失，同时也方便共享，这时候我们可以借助github进行代码库的管理。</p>
-<ul>
-<li>首先，在本地文件夹添加.gitignore文件（规定上传时忽略的文件），然后git bash命令窗口下依次执行以下命令。</li>
-</ul>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git init <span class="comment"># 初始化仓库</span></span><br><span class="line">git add . <span class="comment"># 添加文件到暂存区，这里添加全部</span></span><br><span class="line">git commit -m <span class="string">&quot;first commit&quot;</span> <span class="comment"># 将暂存区内容添加到仓库中</span></span><br><span class="line">git branch -M main </span><br><span class="line">git remote add origin https://github.com/[Your Name]/[Your Repository].git</span><br><span class="line">git push -u origin main <span class="comment"># 上传远程代码并合并</span></span><br></pre></td></tr></table></figure>
-<ul>
-<li>这里建议将https方式改为ssh方式，加快传输速度，操作如下。</li>
-</ul>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git remote <span class="built_in">rm</span> origin <span class="comment"># 移除原有方式</span></span><br><span class="line">git remote add origin git@github.com:[Your Name]/[Your Repository].git <span class="comment"># 添加ssh方式</span></span><br><span class="line">git push -u origin main <span class="comment"># 接下来就可以提交咯</span></span><br></pre></td></tr></table></figure>
-<h2 id="git中一些选项解释">git中一些选项解释</h2>
-<p>-d --delete：删除</p>
-<p>-D --delete --force的快捷键</p>
-<p>-f --force：强制</p>
-<p>-m --move：移动或重命名</p>
-<p>-M --move --force的快捷键</p>
-<p>-r --remote：远程</p>
-<p>-a --all：所有</p>
+    <title>Hello World</title>
+    <url>/post/undefined.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start">Quick Start</h2>
+<h3 id="Create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
       <categories>
         <category>Tutorial</category>
-        <category>Git</category>
+        <category>HEXO</category>
       </categories>
       <tags>
         <tag>教程</tag>
-        <tag>Git</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
-    <title>blogTest</title>
-    <url>/2021/TEST1/</url>
+    <title>Test</title>
+    <url>/post/784dd132.html</url>
     <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">#github initial</span><br><span class="line">git init</span><br><span class="line">git add README.md</span><br><span class="line">git commit -m &quot;first commit&quot;</span><br><span class="line">git branch -M main</span><br><span class="line">git remote add origin https://github.com/SCurry-30/[YourRepository].git</span><br></pre></td></tr></table></figure>
 <figure class="highlight js"><table><tr><td class="code"><pre><span class="line"><span class="variable language_">module</span>.<span class="property">exports</span> = &#123;</span><br><span class="line">  <span class="attr">plugins</span>: &#123;</span><br><span class="line">    <span class="keyword">new</span> webpack.<span class="property">optimize</span>.<span class="title class_">ModuleConcatenationPlungin</span>()</span><br><span class="line">  &#125;</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
 <h1>标签外挂（Tag Plugins）</h1>
@@ -150,7 +146,9 @@
 <p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mtext>公式：</mtext><mi>a</mi><mo>=</mo><mi>b</mi><mspace linebreak="newline"></mspace><mi>e</mi><mo>=</mo><mi>b</mi><mo>+</mo><mi>c</mi></mrow><annotation encoding="application/x-tex">\text{公式：}a=b \\ e=b+c 
 </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord text"><span class="mord cjk_fallback">公式：</span></span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">b</span></span><span class="mspace newline"></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">e</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.7778em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">b</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">c</span></span></span></span></span></p>
 <h1>Music</h1>
-]]></content>
+<p><a href="https://www.u2sb.com/OpenSw/hexo-tag-mmedia/">hexo-tag-mmedia</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% mmedia &quot;audio&quot; &quot;src:a.mp3&quot; %&#125;</span><br></pre></td></tr></table></figure>
+<audio id="mmedia-oDEurgYBjHUKrUsF" controls=true audi="audio" src="../心跳-王力宏.mp3" autoplay=true ></audio>]]></content>
       <categories>
         <category>Others</category>
         <category>TEST</category>
@@ -160,8 +158,39 @@
       </tags>
   </entry>
   <entry>
+    <title>git常用命令</title>
+    <url>/post/423abe9e.html</url>
+    <content><![CDATA[<h2 id="代码库备份">代码库备份</h2>
+<p>在参加项目时，经常需要给项目代码进行备份，以免丢失，同时也方便共享，这时候我们可以借助github进行代码库的管理。</p>
+<ul>
+<li>首先，在本地文件夹添加.gitignore文件（规定上传时忽略的文件），然后git bash命令窗口下依次执行以下命令。</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git init <span class="comment"># 初始化仓库</span></span><br><span class="line">git add . <span class="comment"># 添加文件到暂存区，这里添加全部</span></span><br><span class="line">git commit -m <span class="string">&quot;first commit&quot;</span> <span class="comment"># 将暂存区内容添加到仓库中</span></span><br><span class="line">git branch -M main </span><br><span class="line">git remote add origin https://github.com/[Your Name]/[Your Repository].git</span><br><span class="line">git push -u origin main <span class="comment"># 上传远程代码并合并</span></span><br></pre></td></tr></table></figure>
+<ul>
+<li>这里建议将https方式改为ssh方式，加快传输速度，操作如下。</li>
+</ul>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git remote <span class="built_in">rm</span> origin <span class="comment"># 移除原有方式</span></span><br><span class="line">git remote add origin git@github.com:[Your Name]/[Your Repository].git <span class="comment"># 添加ssh方式</span></span><br><span class="line">git push -u origin main <span class="comment"># 接下来就可以提交咯</span></span><br></pre></td></tr></table></figure>
+<h2 id="git中一些选项解释">git中一些选项解释</h2>
+<p>-d --delete：删除</p>
+<p>-D --delete --force的快捷键</p>
+<p>-f --force：强制</p>
+<p>-m --move：移动或重命名</p>
+<p>-M --move --force的快捷键</p>
+<p>-r --remote：远程</p>
+<p>-a --all：所有</p>
+]]></content>
+      <categories>
+        <category>Tutorial</category>
+        <category>Git</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>Git</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo+Github搭建博客常见问题</title>
-    <url>/2023/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</url>
+    <url>/post/7336afbe.html</url>
     <content><![CDATA[<h1>Hexo部署到Github失败</h1>
 <h2 id="Timeout：unable-to-access">Timeout：unable to access</h2>
 <h3 id="解决方法">解决方法</h3>
@@ -187,30 +216,30 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start">Quick Start</h2>
-<h3 id="Create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>English</title>
+    <url>/post/e33e3b9c.html</url>
+    <content><![CDATA[<h1>English Thinking</h1>
+<h2 id="5-ways-to-think-in-English-Stop-translating-in-your-head">5 ways to think in English|Stop translating in your head</h2>
+<ul>
+<li><strong>Change language of electronic devices and apps into English</strong></li>
+<li><strong>Write lists in English</strong>
+<ul>
+<li>to-do lists</li>
+<li>shopping lists</li>
+</ul>
+</li>
+<li><strong>Describe what you see in English in your head</strong></li>
+<li><strong>Imagine sentences that you might use in a conversation</strong></li>
+<li><strong>Think of all the things you did that day in English befor you go to bed</strong></li>
+</ul>
 ]]></content>
       <categories>
-        <category>Tutorial</category>
-        <category>HEXO</category>
+        <category>English</category>
+        <category>How</category>
       </categories>
       <tags>
-        <tag>教程</tag>
-        <tag>hexo</tag>
+        <tag>学习</tag>
+        <tag>英语</tag>
       </tags>
   </entry>
 </search>

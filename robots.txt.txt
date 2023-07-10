@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://SCurry-30.github.io/sitemap.xml
+Sitemap: https://SCurry-30.github.io/baidusitemap.xml
