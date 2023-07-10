@@ -1,30 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/post/undefined.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start">Quick Start</h2>
-<h3 id="Create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>English</title>
+    <url>/post/e33e3b9c.html</url>
+    <content><![CDATA[<h1>English Thinking</h1>
+<h2 id="5-ways-to-think-in-English-Stop-translating-in-your-head">5 ways to think in English|Stop translating in your head</h2>
+<ul>
+<li><strong>Change language of electronic devices and apps into English</strong></li>
+<li><strong>Write lists in English</strong>
+<ul>
+<li>to-do lists</li>
+<li>shopping lists</li>
+</ul>
+</li>
+<li><strong>Describe what you see in English in your head</strong></li>
+<li><strong>Imagine sentences that you might use in a conversation</strong></li>
+<li><strong>Think of all the things you did that day in English befor you go to bed</strong></li>
+</ul>
+<h1>How to learn anything faster</h1>
+<h2 id="9-tips">9 tips</h2>
+<ul>
+<li><strong>Sharpen the axe</strong></li>
+</ul>
+<blockquote>
+<p align="left">If you gave me six hours to chop down a tree, I would spend the first hour sharpening the axe.</p>
+<p align="right">——Abraham Lincoln</p>
+</blockquote>
+<ul>
+<li><strong>Use crutches to optimise your focus</strong>
+<ul>
+<li>five-minute rule: we just have to convince ourselves that we’re just gonna do the thing for five minutes</li>
+<li>chuck your phone away</li>
+</ul>
+</li>
+<li><strong>Find opportunities for immersion</strong>
+<ul>
+<li>learn the skill by using it as much as possible</li>
+</ul>
+</li>
+<li><strong>Figure out what your weak links are</strong>
+<ul>
+<li>ask yourself, if the exam were tomorrow, what topic would I be the least happy, or the most pissed off about?</li>
+</ul>
+</li>
+<li><strong>Test yourself</strong></li>
+<li><strong>Get intense feedback as often as possible and as quickly as possible</strong></li>
+<li><strong>Overlearn</strong>
+<ul>
+<li>learn not only what or how to do, but also why to do</li>
+</ul>
+</li>
+<li><strong>Spacing</strong></li>
+<li><strong>Teach what you are trying to learn</strong></li>
+</ul>
 ]]></content>
       <categories>
-        <category>Tutorial</category>
-        <category>HEXO</category>
+        <category>English</category>
+        <category>How</category>
       </categories>
       <tags>
-        <tag>教程</tag>
-        <tag>hexo</tag>
+        <tag>学习</tag>
+        <tag>英语</tag>
       </tags>
   </entry>
   <entry>
@@ -148,13 +184,40 @@
 <h1>Music</h1>
 <p><a href="https://www.u2sb.com/OpenSw/hexo-tag-mmedia/">hexo-tag-mmedia</a></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% mmedia &quot;audio&quot; &quot;src:a.mp3&quot; %&#125;</span><br></pre></td></tr></table></figure>
-<audio id="mmedia-oDEurgYBjHUKrUsF" controls=true audi="audio" src="../心跳-王力宏.mp3" autoplay=true ></audio>]]></content>
+<audio id="mmedia-VjBFtCAhLjPLDfxr" controls=true audi="audio" src="https://cdn.jsdelivr.net/gh/SCurry-30/Gallery@bddad5d8543e9eb22aac88b9190a600cf2766ed5/melody/心跳-王力宏.mp3" autoplay=true ></audio>]]></content>
       <categories>
         <category>Others</category>
         <category>TEST</category>
       </categories>
       <tags>
         <tag>测试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/post/4a17b156.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start">Quick Start</h2>
+<h3 id="Create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Tutorial</category>
+        <category>HEXO</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -213,33 +276,6 @@
       <tags>
         <tag>教程</tag>
         <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>English</title>
-    <url>/post/e33e3b9c.html</url>
-    <content><![CDATA[<h1>English Thinking</h1>
-<h2 id="5-ways-to-think-in-English-Stop-translating-in-your-head">5 ways to think in English|Stop translating in your head</h2>
-<ul>
-<li><strong>Change language of electronic devices and apps into English</strong></li>
-<li><strong>Write lists in English</strong>
-<ul>
-<li>to-do lists</li>
-<li>shopping lists</li>
-</ul>
-</li>
-<li><strong>Describe what you see in English in your head</strong></li>
-<li><strong>Imagine sentences that you might use in a conversation</strong></li>
-<li><strong>Think of all the things you did that day in English befor you go to bed</strong></li>
-</ul>
-]]></content>
-      <categories>
-        <category>English</category>
-        <category>How</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>英语</tag>
       </tags>
   </entry>
 </search>

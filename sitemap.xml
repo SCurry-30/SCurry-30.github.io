@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://scurry-30.github.io/post/undefined</loc>
+    <loc>https://scurry-30.github.io/post/4a17b156</loc>
     
     <lastmod>2023-07-08</lastmod>
     
@@ -128,34 +128,6 @@
 
   
   <url>
-    <loc>https://scurry-30.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://scurry-30.github.io/tags/Git/</loc>
-    <lastmod>2023-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://scurry-30.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://scurry-30.github.io/tags/hexo/</loc>
-    <lastmod>2023-07-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://scurry-30.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2023-07-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -169,17 +141,45 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://scurry-30.github.io/categories/Tutorial/</loc>
+    <loc>https://scurry-30.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2023-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://scurry-30.github.io/categories/Tutorial/Git/</loc>
+    <loc>https://scurry-30.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://scurry-30.github.io/tags/hexo/</loc>
+    <lastmod>2023-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://scurry-30.github.io/tags/Git/</loc>
+    <lastmod>2023-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://scurry-30.github.io/categories/English/</loc>
+    <lastmod>2023-07-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://scurry-30.github.io/categories/English/How/</loc>
     <lastmod>2023-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -193,7 +193,7 @@
   </url>
   
   <url>
-    <loc>https://scurry-30.github.io/categories/Tutorial/HEXO/</loc>
+    <loc>https://scurry-30.github.io/categories/Tutorial/</loc>
     <lastmod>2023-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -207,14 +207,14 @@
   </url>
   
   <url>
-    <loc>https://scurry-30.github.io/categories/English/</loc>
+    <loc>https://scurry-30.github.io/categories/Tutorial/HEXO/</loc>
     <lastmod>2023-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://scurry-30.github.io/categories/English/How/</loc>
+    <loc>https://scurry-30.github.io/categories/Tutorial/Git/</loc>
     <lastmod>2023-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
