@@ -53,6 +53,15 @@
 <li><strong>Spacing</strong></li>
 <li><strong>Teach what you are trying to learn</strong></li>
 </ul>
+<h1>How to build good study habits</h1>
+<p>“Humans are creatures of habit.” According to researchers, almost 40% to 95% of our total behavior pattern is driven by habits, which are subconscious acts that we tend to repeat in certain situations. So, if you can develop good habits, they’ll lead you to live a productive and satisfying life, no matter how small or insignificant they seem. Here’s a short, five-step formula that will help.</p>
+<ul>
+<li><strong>NO.5 Settle on the Habit</strong></li>
+<li><strong>NO.4 Repeat Regularly</strong></li>
+<li><strong>NO.3 Monitor Over the Long Term</strong></li>
+<li><strong>NO.2 Make It Convenient</strong></li>
+<li><strong>NO.1 Reward to Reinforce</strong></li>
+</ul>
 ]]></content>
       <categories>
         <category>English</category>
@@ -184,40 +193,13 @@
 <h1>Music</h1>
 <p><a href="https://www.u2sb.com/OpenSw/hexo-tag-mmedia/">hexo-tag-mmedia</a></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% mmedia &quot;audio&quot; &quot;src:a.mp3&quot; %&#125;</span><br></pre></td></tr></table></figure>
-<audio id="mmedia-VjBFtCAhLjPLDfxr" controls=true audi="audio" src="https://cdn.jsdelivr.net/gh/SCurry-30/Gallery@bddad5d8543e9eb22aac88b9190a600cf2766ed5/melody/心跳-王力宏.mp3" autoplay=true ></audio>]]></content>
+<audio id="mmedia-HFfMUdAQaOFkNDLm" controls=true audi="audio" src="https://cdn.jsdelivr.net/gh/SCurry-30/Gallery@bddad5d8543e9eb22aac88b9190a600cf2766ed5/melody/心跳-王力宏.mp3" autoplay=true ></audio>]]></content>
       <categories>
         <category>Others</category>
         <category>TEST</category>
       </categories>
       <tags>
         <tag>测试</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/post/4a17b156.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start">Quick Start</h2>
-<h3 id="Create-a-new-post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>Tutorial</category>
-        <category>HEXO</category>
-      </categories>
-      <tags>
-        <tag>教程</tag>
-        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -252,6 +234,33 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/post/4a17b156.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start">Quick Start</h2>
+<h3 id="Create-a-new-post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>Tutorial</category>
+        <category>HEXO</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo+Github搭建博客常见问题</title>
     <url>/post/7336afbe.html</url>
     <content><![CDATA[<h1>Hexo部署到Github失败</h1>
@@ -276,6 +285,69 @@
       <tags>
         <tag>教程</tag>
         <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Fundamentals of Wireless Communication | Chapter4</title>
+    <url>/post/2a1b60c6.html</url>
+    <content><![CDATA[<h1>Cellular Systems: Multiple Access and Interference Management</h1>
+<h2 id="Introduction">Introduction</h2>
+<p>2 types of spectra:</p>
+<ul>
+<li><strong>licensed</strong>(nationwide and over a period of a few years, provide immunity from any kind of interference outside of the system itself, but expensive bandwidth, no power constraints)</li>
+<li>unlicensed(for experimental systems and to aid development of new wireless tech, cheap bandwidth, a maximum power constraint as well as interference)</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Wireless Communication</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>无线通信</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Matlab通信仿真常用函数</title>
+    <url>/post/4e7d3d08.html</url>
+    <content><![CDATA[<div class="note info flat"><p>推荐网站：<a href="https://sharetechnote.com/html/Handbook_Matlab_Index.html"><strong>ShareTechnote</strong></a></p>
+</div>
+<h1>信号处理</h1>
+<h2 id="上采样">上采样</h2>
+<p>关键函数： upsample<br>
+用途：根升余弦滚降滤波器之前需要进行插值</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">up16_Transmit_code_I = upsample(Transmit_code_I,sps);</span><br></pre></td></tr></table></figure>
+<h2 id="插值函数">插值函数</h2>
+<p>关键函数：interp1</p>
+<h2 id="调制解调函数">调制解调函数</h2>
+<p>发送端：pskmod、qammod<br>
+接收端：pskdemod、qamdemod</p>
+<h2 id="根升余弦滚降成型">根升余弦滚降成型</h2>
+<p>关键函数： rcosdesign<br>
+用途：设计根升余弦滚降成型滤波器，输出为滤波器系数；用conv或者filter函数来实现根升余弦滚降滤波的过程。</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">rcos_fir = rcosdesign(rollof_factor,<span class="number">6</span>,sps); </span><br><span class="line">r_msg_source_I_temp = filter(rcos_fir,<span class="number">1</span>,up16_Transmit_code_I); </span><br><span class="line">r_msg_source_I = r_msg_source_I_temp(<span class="number">1</span>,(<span class="number">1</span>+<span class="built_in">length</span>(rcos_fir))/<span class="number">2</span>:<span class="keyword">end</span>);</span><br></pre></td></tr></table></figure>
+<h2 id="频率响应">频率响应</h2>
+<p>数字滤波器：freqz<br>
+模拟滤波器：freqs<br>
+其中，findpeaks函数可以找到局部峰值，有助于定量判断主瓣比旁瓣大多少</p>
+<h1>波形观察</h1>
+<p>下面涉及观察信号时域、频域图，其中eyediagram用来看眼图，在接收端对信号的质量做一个简单的定性判断。</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line"><span class="built_in">figure</span>(<span class="number">1</span>);</span><br><span class="line"><span class="built_in">plot</span>(rcos_msg_source); </span><br><span class="line">title(<span class="string">&#x27;时域波形&#x27;</span>);</span><br><span class="line"><span class="built_in">figure</span>(<span class="number">2</span>); </span><br><span class="line"><span class="built_in">plot</span>(<span class="built_in">abs</span>(fft(rcos_msg_source))); </span><br><span class="line">title(<span class="string">&#x27;频域波形&#x27;</span>); </span><br><span class="line">eyediagram(rcos_msg_source(<span class="number">49</span>:<span class="keyword">end</span>),sps); </span><br><span class="line">title(<span class="string">&#x27;眼图&#x27;</span>);</span><br></pre></td></tr></table></figure>
+<h2 id="星座图">星座图</h2>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">M = <span class="number">4</span>;</span><br><span class="line">data = randi([<span class="number">0</span> M<span class="number">-1</span>],<span class="number">1000</span>,<span class="number">1</span>);</span><br><span class="line">txSig = pskmod(data,M,<span class="built_in">pi</span>/M);</span><br><span class="line">rxSig = awgn(txSig,<span class="number">20</span>);</span><br><span class="line">scatterplot(rxSig)</span><br></pre></td></tr></table></figure>
+<h1>参数、指标计算</h1>
+<h2 id="误比特数和误比特率">误比特数和误比特率</h2>
+<p>[number, ratio] = biterr(x,y)，其中x，y为0或1。<br>
+如果要画出误码率曲线，还要semilogy函数。</p>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">semilogy(EbNoVec,berEst,<span class="string">&#x27;*&#x27;</span>) </span><br><span class="line"><span class="built_in">hold</span> on </span><br><span class="line">semilogy(EbNoVec,berTheory) </span><br><span class="line">grid on</span><br><span class="line"><span class="built_in">legend</span>(<span class="string">&#x27;Estimated BER&#x27;</span>,<span class="string">&#x27;Theoretical BER&#x27;</span>) </span><br><span class="line">xlabel(<span class="string">&#x27;Eb/No (dB)&#x27;</span>)</span><br><span class="line">ylabel(<span class="string">&#x27;Bit Error Rate&#x27;</span>)</span><br></pre></td></tr></table></figure>
+<h2 id="功率">功率</h2>
+<figure class="highlight matlab"><table><tr><td class="code"><pre><span class="line">spow2 = sum(norm(modulate_data,<span class="string">&#x27;fro&#x27;</span>).^<span class="number">2</span>)/(N_ifft); <span class="comment">%计算功率值         </span></span><br><span class="line">spow4 = sum(<span class="built_in">abs</span>(modulate_data).^<span class="number">2</span>)/(N_ifft);</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>Matlab</category>
+      </categories>
+      <tags>
+        <tag>Matlab</tag>
+        <tag>通信</tag>
       </tags>
   </entry>
 </search>
