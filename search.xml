@@ -193,7 +193,7 @@
 <h1>Music</h1>
 <p><a href="https://www.u2sb.com/OpenSw/hexo-tag-mmedia/">hexo-tag-mmedia</a></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% mmedia &quot;audio&quot; &quot;src:a.mp3&quot; %&#125;</span><br></pre></td></tr></table></figure>
-<audio id="mmedia-HFfMUdAQaOFkNDLm" controls=true audi="audio" src="https://cdn.jsdelivr.net/gh/SCurry-30/Gallery@bddad5d8543e9eb22aac88b9190a600cf2766ed5/melody/心跳-王力宏.mp3" autoplay=true ></audio>]]></content>
+<audio id="mmedia-BllCdMbSfCnmosBk" controls=true audi="audio" src="https://cdn.jsdelivr.net/gh/SCurry-30/Gallery@bddad5d8543e9eb22aac88b9190a600cf2766ed5/melody/心跳-王力宏.mp3" autoplay=true ></audio>]]></content>
       <categories>
         <category>Others</category>
         <category>TEST</category>
@@ -288,25 +288,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Fundamentals of Wireless Communication | Chapter4</title>
-    <url>/post/2a1b60c6.html</url>
-    <content><![CDATA[<h1>Cellular Systems: Multiple Access and Interference Management</h1>
-<h2 id="Introduction">Introduction</h2>
-<p>2 types of spectra:</p>
-<ul>
-<li><strong>licensed</strong>(nationwide and over a period of a few years, provide immunity from any kind of interference outside of the system itself, but expensive bandwidth, no power constraints)</li>
-<li>unlicensed(for experimental systems and to aid development of new wireless tech, cheap bandwidth, a maximum power constraint as well as interference)</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Wireless Communication</category>
-      </categories>
-      <tags>
-        <tag>学习</tag>
-        <tag>无线通信</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Matlab通信仿真常用函数</title>
     <url>/post/4e7d3d08.html</url>
     <content><![CDATA[<div class="note info flat"><p>推荐网站：<a href="https://sharetechnote.com/html/Handbook_Matlab_Index.html"><strong>ShareTechnote</strong></a></p>
@@ -348,6 +329,25 @@
       <tags>
         <tag>Matlab</tag>
         <tag>通信</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Fundamentals of Wireless Communication | Chapter4</title>
+    <url>/post/2a1b60c6.html</url>
+    <content><![CDATA[<h1>Cellular Systems: Multiple Access and Interference Management</h1>
+<h2 id="Introduction">Introduction</h2>
+<p>2 types of spectra:</p>
+<ul>
+<li><strong>licensed</strong>（FM:100MHz GSM:900MHz 3G 2GHz）（nationwide and over a period of a few years, provide immunity from any kind of interference outside of the system itself, but expensive bandwidth, no power constraints）</li>
+<li>unlicensed(for experimental systems and to aid development of new wireless tech, cheap bandwidth, a maximum power constraint as well as interference)</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Wireless Communication</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+        <tag>无线通信</tag>
       </tags>
   </entry>
 </search>

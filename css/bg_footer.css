@@ -27,3 +27,11 @@
   .framework-info {
     display: none;
   }
+  div.search button:before {
+    content: "\f002";
+    font-family: FontAwesome;
+  }
+  div.search input{
+    border: 2px solid;
+    border-radius: 5px;
+  }
