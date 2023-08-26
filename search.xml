@@ -378,7 +378,8 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
 <h1>OFDM</h1>
 <ul>
 <li><strong>关于保护间隔采用补零(Zero Padding)会造成子载波间干扰(Inter Carrier Interference)问题的思考</strong><br>
-<a href="https://blog.csdn.net/Reborn_Lee/article/details/81045108">OFDM专题之子载波间干扰问题</a></li>
+<a href="https://blog.csdn.net/Reborn_Lee/article/details/81045108">OFDM专题之子载波间干扰问题</a><br>
+<a href="https://zhuanlan.zhihu.com/p/347445588">OFDM在AWGN下的BER曲线Matlab实现详解</a></li>
 </ul>
 ]]></content>
   </entry>
